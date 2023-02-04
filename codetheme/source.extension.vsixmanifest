@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="codetheme.7d11ad71-726c-41ae-86f8-6dce6aa72beb" Version="1.3" Language="en-US" Publisher="Ahmed El-bastawisi" />
+        <Identity Id="codetheme.7d11ad71-726c-41ae-86f8-6dce6aa72beb" Version="1.4" Language="en-US" Publisher="Ahmed El-bastawisi" />
         <DisplayName>codetheme</DisplayName>
-        <Description xml:space="preserve">A theme pack based on experimental vscode themes.</Description>
+        <Description xml:space="preserve">A theme pack based on experimental vscode themes.
+Light+ V2, Dark+ V2</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">

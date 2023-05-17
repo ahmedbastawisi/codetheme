@@ -56,12 +56,12 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.4.2120" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Dark+ V2.pkgdef">
+    <Content Include="Dark Modern.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="icon.png" />
-    <Content Include="Light+ V2.pkgdef">
+    <Content Include="Light Modern.pkgdef">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="codetheme.7d11ad71-726c-41ae-86f8-6dce6aa72beb" Version="1.5" Language="en-US" Publisher="Ahmed El-bastawisi" />
+        <Identity Id="codetheme.7d11ad71-726c-41ae-86f8-6dce6aa72beb" Version="1.6" Language="en-US" Publisher="Ahmed El-bastawisi" />
         <DisplayName>Visual Studio Code Modern Themes</DisplayName>
         <Description xml:space="preserve">A theme pack based on vscode modern themes.
 Light Modern, Dark Modern</Description>
+        <Icon>icon.png</Icon>
+        <PreviewImage>icon.png</PreviewImage>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
